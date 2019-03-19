@@ -6,6 +6,7 @@
     "console",
     "effect",
     "globals",
+    "lists",
     "math",
     "prelude",
     "psci-support"
