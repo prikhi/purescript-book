@@ -5,6 +5,8 @@
   "depends": [
     "console",
     "effect",
+    "globals",
+    "math",
     "prelude",
     "psci-support"
   ]
