@@ -6,10 +6,12 @@
     "arrays",
     "console",
     "effect",
+    "foldable-traversable",
     "globals",
     "lists",
     "math",
     "prelude",
-    "psci-support"
+    "psci-support",
+    "strings"
   ]
 }
